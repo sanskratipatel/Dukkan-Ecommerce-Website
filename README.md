@@ -14,7 +14,7 @@ An eCommerce platform developed using HTML5, CSS3, Python (Django), and SQLite.
 
 ## Overview
 
-This eCommerce project is designed to provide a seamless online shopping experience. It includes various features that enhance the user experience, such as filtering products, searching for items, and managing a list of favorite products. This project was developed as a group effort.
+This eCommerce project is designed to provide a seamless online shopping experience. It includes various features that enhance the user experience, such as filtering products, searching for items, and managing a list of favorite products. This project was developed as  group effort.
 
 ## Features
 

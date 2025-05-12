@@ -1,6 +1,6 @@
 # Dukkan-Ecommerce-Website 
 
-An eCommerce platform developed using HTML5, CSS3, Python ,(Django), and SQLite.
+An eCommerce platform developed using HTML5, CSS3, Python ,Django and SQLite.
 
 ## Table of Contents
 
